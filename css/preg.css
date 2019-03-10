@@ -1,0 +1,9 @@
+body{
+	background: url('../images/pr.jpg');
+	background-size: 90% 100%;
+  background-repeat: no-repeat;
+  background-position: left;
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;      
+}

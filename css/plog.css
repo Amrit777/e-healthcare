@@ -1,0 +1,10 @@
+body {
+  background: url('../images/p.jpg'); /* fallback for old browsers */
+  background-size: 102% 116%;
+  background-repeat: no-repeat;
+  background-position: all;
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+      
+}
