@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+.form button {
+  background: #E10109;
+}
+.form button:hover,.form button:active,.form button:focus {
+  background: #C40704;
+}
+.form .message a {
+  color: #E10109;
+  text-decoration: none;
+}
+body {
+  background: url('../images/b1.jpg'); /* fallback for old browsers */
+  background-size: 55% 93%;
+  background-repeat: no-repeat;
+  background-position: left;
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;      
+}

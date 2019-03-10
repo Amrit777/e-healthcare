@@ -1,0 +1,10 @@
+body{
+	background: url('../images/d3.jpg');
+	background-size: 60% 100%;
+	background-color: #E0E3DC;
+  background-repeat: no-repeat;
+  background-position: left;
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;      
+}
